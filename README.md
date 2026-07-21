@@ -37,11 +37,9 @@ Currently learning web application development, with a focus on backend and data
 
 - 📄 **Document & Print Management Web App** (team of 4)
   Built with Next.js / FastAPI / PostgreSQL. Responsible for DB design (8 tables, UUID primary keys) and REST API design (25 endpoints). Also integrated the OpenAI Multimodal API and Stripe payments.
-  → Repo: [ms-engineer-bc26-04/team-B_section9](https://github.com/ms-engineer-bc26-04/team-B_section9) (requesting public access)
 
 - 💰 **Gohoubi Bank** (LINE bot savings app)
   A LINE bot built on AWS Lambda, integrated with the GMO Aozora Net Bank API. Responsible for backend implementation of the transfer endpoint and balance retrieval.
-  → Repo: [ms-engineer-bc26-04/team-C_section8](https://github.com/ms-engineer-bc26-04/team-C_section8) (requesting public access)
 
 - 📚 **Ms.Driver** (learning log management app)
   [team-C_section7](https://github.com/ms-engineer-bc26-04/team-C_section7)
